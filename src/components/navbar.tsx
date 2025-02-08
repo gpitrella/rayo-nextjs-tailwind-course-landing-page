@@ -76,8 +76,8 @@ export function Navbar() {
           className="z-50 mt-6 relative border-0 pr-3 py-3 pl-6"
         >
           <div className="flex items-center justify-between">
-            <Typography color="blue-gray" className="text-lg font-bold">
-              Material Tailwind
+            <Typography color="blue-gray" className="text-2x1 font-black">
+              RAYO
             </Typography>
             <ul className="ml-10 hidden items-center gap-8 lg:flex">
               {NAV_MENU.map(({ name, icon: Icon, href }) => (

@@ -9,9 +9,9 @@ function Hero() {
       <Image
         width={1200}
         height={1200}
-        src="/image/image8.svg"
+        src="/image/BG_Rayo.png"
         alt="bg-img"
-        className="absolute inset-0 ml-auto w-[920px] h-[780px] rounded-bl-[100px] object-cover object-center"
+        className="absolute inset-0 ml-auto w-[770px] h-[630px] rounded-bl-[100px] object-cover object-center"
       />
       <div className="container mx-auto mt-28">
         <div className="grid grid-cols-12 text-center lg:text-left">
